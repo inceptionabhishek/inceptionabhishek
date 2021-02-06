@@ -15,10 +15,10 @@ Here are some ideas to get you started:
 - ⚡  Fun fact: ...
 -->
 <h1> <center> Hi! I am Abhishek kumar⚡ </center></h1>
-🔭 I’m currently working on Web development
-🌱 I’m currently learning c++, data sturucture and algorithms
-👯 I’m looking to collaborate on projects
-🤔 I’m looking for help with machine learning projects
-⚡  Fun fact: I like to make friends :P
-📫 How to reach me : <a herf="linkedin.com/in/abhishek-kumar-0989bb1bb" Abhishek kumar </a>
+<br>🔭 I’m currently working on Web development
+<br>🌱 I’m currently learning c++, data sturucture and algorithms
+<br>👯 I’m looking to collaborate on projects
+<br>🤔 I’m looking for help with machine learning projects
+<br>⚡  Fun fact: I like to make friends :P
+<br>📫 How to reach me : <a herf="linkedin.com/in/abhishek-kumar-0989bb1bb" Abhishek kumar </a>
 <strong> Any ideas! </strong> and like to share, Then do contact me :P
