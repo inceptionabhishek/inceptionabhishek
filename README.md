@@ -10,27 +10,24 @@
 <br>⚡  Fun fact: I like to make friends :P
 <br>📫 How to reach me : <a herf="linkedin.com/in/abhishek-kumar-0989bb1bb" Abhishek kumar </a>
 <strong> Any ideas! </strong> and like to share, Then do contact me :P
-<h1> I want to work on these Technologies: </h1>
     </td>
     <td>
       <img src="code.gif">
     </td>
   </tr>
   </table>
+  <h1> I want to work on these Technologies: </h1>
   <table>
 <tr>
   <td><img src="react.png" height="100px" width="100px"</td>
    <td><img src="angular.png" height="100px" width="100px"></td>
     <td><img src="machine.png" height="100px" width="100px"></td>
-    
   </tr>
   <tr>
   <td><img src="ccc.PNG" height="100px" width="100px"</td>
    <td><img src="boot.png" height="100px" width="100px"></td>
     <td><img src="python.png" height="100px" width="100px"></td>
-    
   </tr>
-  
  </table>
 
 
