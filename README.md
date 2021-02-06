@@ -1,4 +1,5 @@
 ### Hi there 👋
+<img src="sticker.png" height="100px" width="100px">
 
 <!--
 **inceptionabhishek/inceptionabhishek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -22,8 +23,27 @@ Here are some ideas to get you started:
 <br>⚡  Fun fact: I like to make friends :P
 <br>📫 How to reach me : <a herf="linkedin.com/in/abhishek-kumar-0989bb1bb" Abhishek kumar </a>
 <strong> Any ideas! </strong> and like to share, Then do contact me :P
+<h1> I want to work on these Technologies: </h1>
+
+  <table>
+<tr>
+  <td><img src="react.png" height="100px" width="100px"</td>
+   <td><img src="angular.png" height="100px" width="100px"></td>
+    <td><img src="machine.png" height="100px" width="100px"></td>
+    
+  </tr>
+  <tr>
+  <td><img src="ccc.PNG" height="100px" width="100px"</td>
+   <td><img src="boot.png" height="100px" width="100px"></td>
+    <td><img src="python.png" height="100px" width="100px"></td>
+    
+  </tr>
+  
+ </table>
+
+
 <br>
-<h3> I am a competitive programmer </h3>
+<h1> I am a competitive programmer </h1>
 <p>I mostly solve question on these website</p>
 <table>
 <tr>
@@ -33,5 +53,6 @@ Here are some ideas to get you started:
     <td><img src="atcoder.png" height="100px" width="100px"></td>
   </tr>
  </table>
+
  <img align="left" alt= "Abhishek github stats" src="https://github-readme-stats.vercel.app/api?username=inceptionabhishek&show_icons=true&theme=radical">
 
