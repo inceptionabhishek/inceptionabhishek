@@ -1,19 +1,7 @@
 ### Hi there<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-
-<!--
-**inceptionabhishek/inceptionabhishek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡  Fun fact: ...
--->
+<table>
+ <tr>
+  <td>
 <h1> <center> Hi! I am Abhishek kumar⚡ </center></h1>
 <br>🔭 I’m currently working on Web development
 <br>🌱 I’m currently learning c++, data sturucture and algorithms
@@ -23,7 +11,12 @@ Here are some ideas to get you started:
 <br>📫 How to reach me : <a herf="linkedin.com/in/abhishek-kumar-0989bb1bb" Abhishek kumar </a>
 <strong> Any ideas! </strong> and like to share, Then do contact me :P
 <h1> I want to work on these Technologies: </h1>
-
+    </td>
+    <td>
+      <img src="code.gif">
+    </td>
+  </tr>
+  </table>
   <table>
 <tr>
   <td><img src="react.png" height="100px" width="100px"</td>
