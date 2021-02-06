@@ -33,5 +33,5 @@ Here are some ideas to get you started:
     <td><img src="atcoder.png" height="100px" width="100px"></td>
   </tr>
  </table>
- 
+ <img align="left" alt= "Abhishek github stats" src="https://github-readme-stats.vercel.app/api?username=inceptionabhishek&show_icons=true&theme=radical">
 
