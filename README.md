@@ -1,5 +1,4 @@
-### Hi there 👋
-<img src="sticker.png" height="100px" width="100px">
+### Hi there<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 <!--
 **inceptionabhishek/inceptionabhishek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -56,3 +55,9 @@ Here are some ideas to get you started:
 
  <img align="left" alt= "Abhishek github stats" src="https://github-readme-stats.vercel.app/api?username=inceptionabhishek&show_icons=true&theme=radical">
 
+
+<a href="linkedin.com/in/abhishek-kumar-0989bb1bb">
+  <img align="left" alt="Abhishek's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+</a>
+
+</a>
