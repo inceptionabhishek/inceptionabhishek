@@ -2,6 +2,7 @@
 <table>
  <tr>
   <td>
+    <p><span class="text-slider-items">CSE-Student, Full stack developer and Competitive programmer</span><strong class="text-slider"></strong></p>
 <h1> <center> Hi! I am Abhishek kumar⚡ </center></h1>
 <br>🔭 I’m currently working on Web development
 <br>🌱 I’m currently learning c++, data sturucture and algorithms
