@@ -22,4 +22,4 @@ Here are some ideas to get you started:
 <br>⚡  Fun fact: I like to make friends :P
 <br>📫 How to reach me : <a herf="linkedin.com/in/abhishek-kumar-0989bb1bb" Abhishek kumar </a>
 <strong> Any ideas! </strong> and like to share, Then do contact me :P
-[![Abhishek's GitHub stats](https://github-readme-stats.vercel.app/api?username=inceptionabhishek)](https://github.com/anuraghazra/github-readme-stats)
+<div>Icons made by <a href="https://www.freepik.com" title="Freepik">Freepik</a> from <a href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com</a></div>
