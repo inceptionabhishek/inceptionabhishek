@@ -17,43 +17,7 @@
     </td>
   </tr>
   </table>
-  <h1> I want to work on these Technologies: </h1>
-  <table>
-<tr>
-  <td><img src="react.png" height="100px" width="100px"</td>
-   <td><img src="angular.png" height="100px" width="100px"></td>
-    <td><img src="machine.png" height="100px" width="100px"></td>
-  </tr>
-  <tr>
-  <td><img src="ccc.PNG" height="100px" width="100px"</td>
-   <td><img src="boot.png" height="100px" width="100px"></td>
-    <td><img src="python.png" height="100px" width="100px"></td>
-  </tr>
- </table>
-
-
-<br>
-<h1> I am a competitive programmer </h1>
-<p>I mostly solve question on these website</p>
-<table>
-<tr>
-  <td><img src="codechef.jfif" height="100px" width="100px"</td>
-   <td><img src="codeforces.PNG" height="100px" width="155px"></td>
-    <td><img src="hacker.jfif" height="100px" width="100px"></td>
-    <td><img src="atcoder.png" height="100px" width="100px"></td>
-  </tr>
- </table>
-
- <img align="left" alt= "Abhishek github stats" src="https://github-readme-stats.vercel.app/api?username=inceptionabhishek&show_icons=true&theme=radical">
-
-
-<a href="linkedin.com/in/abhishek-kumar-0989bb1bb">
-  <img align="left" alt="Abhishek's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-</a>
-
-</a>
-
-## Stack I work with
+  ## Stack I work with
 <code><img height="50" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/java/java-horizontal.svg"></code>
 <code><img height="50" src="https://cdn.worldvectorlogo.com/logos/c.svg"></code>
@@ -101,4 +65,29 @@
 <code><img height="50" src="https://www.vectorlogo.zone/logos/ubuntu/ubuntu-ar21.svg"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/centos/centos-ar21.svg"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-ar21.svg"></code>
+ 
+
+
+<br>
+<h1> I am a competitive programmer </h1>
+<p>I mostly solve question on these website</p>
+<table>
+<tr>
+  <td><img src="codechef.jfif" height="100px" width="100px"</td>
+   <td><img src="codeforces.PNG" height="100px" width="155px"></td>
+    <td><img src="hacker.jfif" height="100px" width="100px"></td>
+    <td><img src="atcoder.png" height="100px" width="100px"></td>
+  </tr>
+ </table>
+
+ <img align="left" alt= "Abhishek github stats" src="https://github-readme-stats.vercel.app/api?username=inceptionabhishek&show_icons=true&theme=radical">
+
+
+<a href="linkedin.com/in/abhishek-kumar-0989bb1bb">
+  <img align="left" alt="Abhishek's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+</a>
+
+</a>
+
+
 
