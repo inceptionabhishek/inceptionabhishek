@@ -17,7 +17,8 @@
     </td>
   </tr>
   </table>
-  ## Stack I work with
+  <h1> Worked with </h1>
+ 
 <code><img height="50" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/java/java-horizontal.svg"></code>
 <code><img height="50" src="https://cdn.worldvectorlogo.com/logos/c.svg"></code>
