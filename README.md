@@ -13,7 +13,7 @@
 <strong> Any ideas! </strong> and like to share, Then do contact me :P
     </td>
     <td>
-      <img src="code.gif">
+<img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif"> 
     </td>
   </tr>
   </table>
