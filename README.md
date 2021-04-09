@@ -17,7 +17,7 @@
     </td>
   </tr>
   </table>
-  <h1> Worked with </h1>
+  <h1>I want to work in these technology:</h1>
  
 <code><img height="50" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/java/java-horizontal.svg"></code>
