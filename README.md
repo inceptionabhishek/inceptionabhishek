@@ -20,11 +20,17 @@
   </tr>
   </table>
   <h1>I want to work in these technology:</h1>
- 
-<img height="50" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg">
+ <table>
+ <tr>
+  <td>
+ <img height="50" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg">
 <img height="50" src="https://www.vectorlogo.zone/logos/java/java-horizontal.svg">
 <img height="50" src="https://cdn.worldvectorlogo.com/logos/c.svg">
 <img height="50" src="https://www.vectorlogo.zone/logos/golang/golang-horizontal.svg">
+  </td>
+  <tr>
+ <table>
+
 <code><img height="50" src="https://www.vectorlogo.zone/logos/php/php-horizontal.svg"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg"></code>
