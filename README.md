@@ -1,4 +1,6 @@
 ### Hi there<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+<img src="https://visitor-badge.glitch.me/badge?page_id=inceptionabhishek.visitor-badge" alt="visitor badge"/>[![](https://img.shields.io/badge/-linkedin-0073B1?style=flat-square)](http://linkedin.com/in/ingridrosselis)
+
 <table>
  <tr>
   <td>
@@ -19,10 +21,10 @@
   </table>
   <h1>I want to work in these technology:</h1>
  
-<code><img height="50" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
-<code><img height="50" src="https://www.vectorlogo.zone/logos/java/java-horizontal.svg"></code>
-<code><img height="50" src="https://cdn.worldvectorlogo.com/logos/c.svg"></code>
-<code><img height="50" src="https://www.vectorlogo.zone/logos/golang/golang-horizontal.svg"></code>
+<img height="50" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg">
+<img height="50" src="https://www.vectorlogo.zone/logos/java/java-horizontal.svg">
+<img height="50" src="https://cdn.worldvectorlogo.com/logos/c.svg">
+<img height="50" src="https://www.vectorlogo.zone/logos/golang/golang-horizontal.svg">
 <code><img height="50" src="https://www.vectorlogo.zone/logos/php/php-horizontal.svg"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg"></code>
