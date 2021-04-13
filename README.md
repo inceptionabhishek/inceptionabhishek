@@ -56,10 +56,12 @@
 
  
 
-<center>
+
 <br>
+<center>
 <h1> I am a competitive programmer </h1>
 <p>I mostly solve question on these website</p>
+ </center>
 <table>
 <tr>
   <td><img src="codechef.jfif" height="100px" width="100px"</td>
@@ -77,6 +79,6 @@
 </a>
 
 </a>
-</center>
+
 
 
