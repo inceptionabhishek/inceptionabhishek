@@ -56,7 +56,7 @@
 
  
 
-
+<center>
 <br>
 <h1> I am a competitive programmer </h1>
 <p>I mostly solve question on these website</p>
@@ -77,6 +77,6 @@
 </a>
 
 </a>
-
+</center>
 
 
