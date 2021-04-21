@@ -2,8 +2,6 @@
 ### Hi there<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 <img src="https://visitor-badge.glitch.me/badge?page_id=inceptionabhishek.visitor-badge" alt="visitor badge"/>[![](https://img.shields.io/badge/-linkedin-0073B1?style=flat-square)](https://www.linkedin.com/in/abhishek-kumar-0989bb1bb/)
 
-
-<img src="Capture.JPG" border-radius: 50%></img>
 <table>
  <tr>
   <td>
