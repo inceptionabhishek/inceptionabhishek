@@ -3,6 +3,7 @@
 <img src="https://visitor-badge.glitch.me/badge?page_id=inceptionabhishek.visitor-badge" alt="visitor badge"/>[![](https://img.shields.io/badge/-linkedin-0073B1?style=flat-square)](https://www.linkedin.com/in/abhishek-kumar-0989bb1bb/)
 
 <img src="Name.jpg" height=400px width=100%></img>
+<center> <h1 text align="Center"> About Me </h1></center>
 <table>
  <tr>
   <td>
@@ -21,7 +22,7 @@
     </td>
   </tr>
   </table>
-  <h1>I want to work in these technology:</h1>
+  <h1 text align="Center">I want to work in these technology:</h1>
  <table>
  <tr>
   <td>
@@ -60,18 +61,7 @@
 
 
 <br>
-<center>
-<h1> I am a competitive programmer </h1>
-<p>I mostly solve question on these website</p>
- </center>
-<table>
-<tr>
-  <td><img src="codechef.jfif" height="100px" width="100px"</td>
-   <td><img src="codeforces.PNG" height="100px" width="155px"></td>
-    <td><img src="hacker.jfif" height="100px" width="100px"></td>
-    <td><img src="atcoder.png" height="100px" width="100px"></td>
-  </tr>
- </table>
+
 
  <img align="left" alt= "Abhishek github stats" src="https://github-readme-stats.vercel.app/api?username=inceptionabhishek&show_icons=true&theme=radical">
 
