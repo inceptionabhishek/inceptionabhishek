@@ -42,7 +42,7 @@
 <br>
 <div>
 
- <img align="left" alt= "Abhishek github stats" src="https://github-readme-stats.vercel.app/api?username=inceptionabhishek&show_icons=true&theme=radical">
+ <img align="centre" alt= "Abhishek github stats" src="https://github-readme-stats.vercel.app/api?username=inceptionabhishek&show_icons=true&theme=radical">
 
 
 <a href="linkedin.com/in/abhishek-kumar-0989bb1bb">
