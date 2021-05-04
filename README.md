@@ -23,10 +23,7 @@
  <table>
  <tr>
   <td>
- <img height="50" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg">
-<img height="50" src="https://www.vectorlogo.zone/logos/java/java-horizontal.svg">
-<img height="50" src="https://cdn.worldvectorlogo.com/logos/c.svg">
-<img height="50" src="https://www.vectorlogo.zone/logos/golang/golang-horizontal.svg">
+ <img height="50" src="https://media.giphy.com/media/Ll22OhMLAlVDb8UQWe/giphy.gif">
   </td>
   <td>
  
