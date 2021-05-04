@@ -19,7 +19,7 @@
     </td>
   </tr>
   </table>
-  <h1 text align="Center">I want to work in these technology:</h1>
+  <h1 text align="Center">Be Creative: </h1>
  <table>
  <tr>
   <td>
