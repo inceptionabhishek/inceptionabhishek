@@ -1,5 +1,5 @@
 
-<img src="new.jpg" height=500px width=100%></img>
+<img src="new.jpg" height=400px width=100%></img>
 <center> <h1 text align="Center"> About Me </h1></center>
 <table>
  <tr>
