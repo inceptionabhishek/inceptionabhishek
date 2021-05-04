@@ -23,7 +23,7 @@
  <table>
  <tr>
   <td>
- <img height="50" src="https://media.giphy.com/media/Ll22OhMLAlVDb8UQWe/giphy.gif">
+ <img src="https://media.giphy.com/media/Ll22OhMLAlVDb8UQWe/giphy.gif">
   </td>
   <td>
  
