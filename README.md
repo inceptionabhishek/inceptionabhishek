@@ -18,39 +18,14 @@
     </td>
   </tr>
   </table>
-  <h1 text align="Center">Be Creative: </h1>
- <table>
- <tr>
-  <td>
- <img src="https://media.giphy.com/media/Ll22OhMLAlVDb8UQWe/giphy.gif">
-  </td>
-  <td>
-   <img src="https://media.giphy.com/media/QTfX9Ejfra3ZmNxh6B/giphy.gif">
- </td>
-   <td>
-    <img src="https://media.giphy.com/media/lOgu1OnjYF2GHBfRU4/giphy.gif">
-   </td>
-   </tr>
- <table>
-
-
-
- 
-
 
 <br>
 <div>
-
  <img align="center" margin-left="100px" alt= "Abhishek github stats" src="https://github-readme-stats.vercel.app/api?username=inceptionabhishek&show_icons=true&theme=radical">
-
-
 <a href="linkedin.com/in/abhishek-kumar-0989bb1bb">
   <img align="left" alt="Abhishek's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 
 </a>
 </div>
-
-<img src="https://visitor-badge.glitch.me/badge?page_id=inceptionabhishek.visitor-badge" alt="visitor badge"/>[![](https://img.shields.io/badge/-linkedin-0073B1?style=flat-square)](https://www.linkedin.com/in/abhishek-kumar-0989bb1bb/)
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=inceptionabhishek&bg_color=000000&color=9e4c98&line=dee109&point=c42121&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
