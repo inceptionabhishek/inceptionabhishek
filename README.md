@@ -1,5 +1,5 @@
 
-<center> <h1 text align="Center"><img src="https://media.giphy.com/media/Vf3ZKdillTMOOaOho0/giphy.gif" width="100px">About Me </h1></center>
+<center> <h1 text align="Center"><img src="https://media.giphy.com/media/Vf3ZKdillTMOOaOho0/giphy.gif" width="100px"> About Me </h1></center>
 <table>
  <tr>
   <td>
@@ -19,7 +19,7 @@
 <strong> Any ideas! </strong> and like to share, Then do contact me :P
     </td>
     <td>
-<img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif"> 
+<img src="https://media.giphy.com/media/iDbDicWr95THaVsuIF/giphy.gif"> 
     </td>
   </tr>
   </table>
