@@ -40,9 +40,9 @@
 <br>
 <hr>
 <div>
- <img align="center" margin-left="100px" alt= "Abhishek github stats" src="https://github-readme-stats.vercel.app/api?username=inceptionabhishek&show_icons=true&theme=radical">
-</a>
-
-</a>
+ <center>
+<img align="center" margin-left="100px" alt= "Abhishek github stats" src="https://github-readme-stats.vercel.app/api?username=inceptionabhishek&show_icons=true&theme=radical">
+ <img align="center" margin-left="100px" alt= "Abhishek Language stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=inceptionabhishek">
+ </center>
 </div>
 
