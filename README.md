@@ -1,5 +1,5 @@
 
-<center> <h1 text align="Center"> About Me </h1></center>
+<center> <h1 text align="Center"><img src="https://media.giphy.com/media/Vf3ZKdillTMOOaOho0/giphy.gif" width="100px">About Me </h1></center>
 <table>
  <tr>
   <td>
@@ -7,7 +7,9 @@
 <h1> <center> Hi! I am Abhishek kumar⚡
  <img src="https://media.giphy.com/media/PMExYMdOHKfa6GU32L/giphy.gif" width="40px"> 
  </center></h1>
-   <center> <img src="https://media.giphy.com/media/3ohhwMfw0rU0LQfFeg/giphy.gif" width="90px" display= "block" margin-left= "auto" margin-right="auto"></center>
+   <center> <img src="https://media.giphy.com/media/XH9wwXfUXu91wAJwN5/giphy.gif" width="90px"></center>
+   <center> <img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" width="90px"></center>
+   <center> <img src="https://media.giphy.com/media/iFmw13LV1hHhViPPWz/giphy.gif" width="90px"></center>
 <br>🔭 I’m currently working on Web development
 <br>🌱 I’m currently learning c++, data sturucture and algorithms
 <br>👯 I’m looking to collaborate on projects
@@ -46,7 +48,7 @@
 <hr>
 <div>
  <center>
-  <img src="https://media.giphy.com/media/Vf3ZKdillTMOOaOho0/giphy.gif" width="100px">
+  
 <img align="center" margin-left="100px" alt= "Abhishek github stats" src="https://github-readme-stats.vercel.app/api?username=inceptionabhishek&show_icons=true&theme=radical">
  <img align="center" margin-left="100px" alt= "Abhishek Language stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=inceptionabhishek">
  </center>
