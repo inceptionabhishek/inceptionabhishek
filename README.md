@@ -4,7 +4,10 @@
  <tr>
   <td>
     <p><span class="text-slider-items">CSE-Student, Full stack developer and Competitive programmer</span><strong class="text-slider"></strong></p>
-<h1> <center> Hi! I am Abhishek kumar⚡ </center></h1>
+<h1> <center> Hi! I am Abhishek kumar⚡
+ <img src="https://media.giphy.com/media/PMExYMdOHKfa6GU32L/giphy.gif" width="40px"> 
+ </center></h1>
+   <center> <img src="https://media.giphy.com/media/3ohhwMfw0rU0LQfFeg/giphy.gif" width="90px" display= "block" margin-left= "auto" margin-right="auto"></center>
 <br>🔭 I’m currently working on Web development
 <br>🌱 I’m currently learning c++, data sturucture and algorithms
 <br>👯 I’m looking to collaborate on projects
@@ -21,6 +24,8 @@
   
   
 ### Languages and Tools:
+
+
 
 
 <a href="https://www.w3.org/html/" target="_blank"><img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" /></a>
@@ -41,6 +46,7 @@
 <hr>
 <div>
  <center>
+  <img src="https://media.giphy.com/media/Vf3ZKdillTMOOaOho0/giphy.gif" width="100px">
 <img align="center" margin-left="100px" alt= "Abhishek github stats" src="https://github-readme-stats.vercel.app/api?username=inceptionabhishek&show_icons=true&theme=radical">
  <img align="center" margin-left="100px" alt= "Abhishek Language stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=inceptionabhishek">
  </center>
