@@ -4,8 +4,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=inceptionabhishek&label=Profile%20views&color=0e75b6&style=flat" alt="inceptionabhishek" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=inceptionabhishek" alt="inceptionabhishek" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/wildfire_op" target="blank"><img src="https://img.shields.io/twitter/follow/wildfire_op?logo=twitter&style=for-the-badge" alt="wildfire_op" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
