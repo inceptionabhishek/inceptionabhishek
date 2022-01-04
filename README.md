@@ -4,18 +4,19 @@
 ![](https://komarev.com/ghpvc/?username=inceptionabhishek&color=blueviolet&label=Profile+Views)
 <br />
 <p align ='center'>
-<img src='https://avataaars.io/?avatarStyle=Circle&topType=ShortHairDreads02&accessoriesType=Prescription01&hairColor=Black&facialHairType=BeardLight&facialHairColor=Auburn&clotheType=ShirtCrewNeck&clotheColor=White&eyeType=Hearts&eyebrowType=SadConcerned&mouthType=Smile&skinColor=DarkBrown'  width="200px"
+<img src='https://avataaars.io/?avatarStyle=Circle&topType=ShortHairDreads02&accessoriesType=Prescription01&hairColor=Black&facialHairType=BeardLight&facialHairColor=Auburn&clotheType=ShirtCrewNeck&clotheColor=White&eyeType=Hearts&eyebrowType=SadConcerned&mouthType=Smile&skinColor=DarkBrown'  width="50px"
+/>
+ <img src='https://avataaars.io/?avatarStyle=Circle&topType=ShortHairDreads02&accessoriesType=Prescription01&hairColor=Black&facialHairType=BeardLight&facialHairColor=Auburn&clotheType=ShirtCrewNeck&clotheColor=White&eyeType=Hearts&eyebrowType=SadConcerned&mouthType=Smile&skinColor=DarkBrown'  width="50px"
+/>
+ <img src='https://avataaars.io/?avatarStyle=Circle&topType=ShortHairDreads02&accessoriesType=Prescription01&hairColor=Black&facialHairType=BeardLight&facialHairColor=Auburn&clotheType=ShirtCrewNeck&clotheColor=White&eyeType=Hearts&eyebrowType=SadConcerned&mouthType=Smile&skinColor=DarkBrown'  width="50px"
 />
  </p>
  
  
  
 #### - 💻‍ I'm a Computer Science Student
-
 #### - 👨‍💻 Currently working with MERN Stack tech for web development
-
 #### - 🎇 Learning: DSA and Mobile App development
-
 #### - 🎨 Hobbies: Gamming, coding, and travelling
 
 <br />
