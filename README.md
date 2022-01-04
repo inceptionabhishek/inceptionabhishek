@@ -1,32 +1,25 @@
 ### Hi there, I'm [Abhishek!](https://www.instagram.com/Wildfireabhi) <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/wave.gif" width="29px">
-
-
 ![](https://komarev.com/ghpvc/?username=inceptionabhishek&color=blueviolet&label=Profile+Views)
 <br />
 <p align ='center'>
-<img src='https://avataaars.io/?avatarStyle=Circle&topType=ShortHairDreads02&accessoriesType=Prescription01&hairColor=Black&facialHairType=BeardLight&facialHairColor=Auburn&clotheType=ShirtCrewNeck&clotheColor=White&eyeType=Hearts&eyebrowType=SadConcerned&mouthType=Smile&skinColor=DarkBrown'  width="50px"
-/>
- <img src='https://avataaars.io/?avatarStyle=Circle&topType=ShortHairDreads02&accessoriesType=Prescription01&hairColor=Black&facialHairType=BeardLight&facialHairColor=Auburn&clotheType=ShirtCrewNeck&clotheColor=White&eyeType=Hearts&eyebrowType=SadConcerned&mouthType=Smile&skinColor=DarkBrown'  width="50px"
-/>
- <img src='https://avataaars.io/?avatarStyle=Circle&topType=ShortHairDreads02&accessoriesType=Prescription01&hairColor=Black&facialHairType=BeardLight&facialHairColor=Auburn&clotheType=ShirtCrewNeck&clotheColor=White&eyeType=Hearts&eyebrowType=SadConcerned&mouthType=Smile&skinColor=DarkBrown'  width="50px"
-/>
+ 
  </p>
  
  
- 
-#### - 💻‍ I'm a Computer Science Student
-#### - 👨‍💻 Currently working with MERN Stack tech for web development
-#### - 🎇 Learning: DSA and Mobile App development
-#### - 🎨 Hobbies: Gamming, coding, and travelling
-
+```
+💻‍ I'm a Computer Science Student
+👨‍💻 Currently working with MERN Stack tech for web development
+🎇 Learning: DSA and Mobile App development
+🎨 Hobbies: Gamming, coding, and travelling
+```
 <br />
 
 
 ---
 
 <p align="center">
-  <img width="400px" src="https://github-readme-stats.vercel.app/api?username=inceptionabhishek&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1F222E" />
-  <img width="400px" src="https://github-readme-streak-stats.herokuapp.com?user=inceptionabhishek&theme=gotham&hide_border=true&fire=C77800&ring=DD910B&background=1F222E" />
+  <img width="300px" src="https://github-readme-stats.vercel.app/api?username=inceptionabhishek&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1F222E" />
+  <img width="300px" src="https://github-readme-streak-stats.herokuapp.com?user=inceptionabhishek&theme=gotham&hide_border=true&fire=C77800&ring=DD910B&background=1F222E" />
 </p>
 
 ---
