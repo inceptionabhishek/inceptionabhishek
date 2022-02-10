@@ -33,7 +33,9 @@ Want to become a Freelancer in free time 💸 and an Open Source Contributor ❤
 </p>
 
 
-  <img align="right" alt="GIF" src="https://media.giphy.com/media/MC6eSuC3yypCU/giphy.gif" />
+ <img align="right" width="300px" alt="GIF" src="https://media.giphy.com/media/l1J9MU7JDGBu8VQwU/giphy.gif" />
+
+
   
 ### ✨ Quick Facts
 
@@ -76,8 +78,6 @@ Want to become a Freelancer in free time 💸 and an Open Source Contributor ❤
 ### 👣 Next Steps
 
 _Since you don't want to leave my profile just yet! Here are some things you can do :_
-<img align="right" width="300px" alt="GIF" src="https://media.giphy.com/media/l1J9MU7JDGBu8VQwU/giphy.gif" />
-<div display="flex" >
 
 ###### ❤️ Offer work : Send the offer on [![Linkedin Badge](https://img.shields.io/badge/-inceptionabhishek-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/inceptionabhi/)](https://www.linkedin.com/in/inceptionabhi/) or [![Gmail Badge](https://img.shields.io/badge/-abhishek1122338@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:abhishek1122338@gmail.com)](mailto:abhishek1122338@gmail.com)
 
@@ -87,6 +87,11 @@ _Since you don't want to leave my profile just yet! Here are some things you can
 
 ###### ❤️ Connect with me : [![Linkedin Badge](https://img.shields.io/badge/-inceptionabhishek-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/inceptionabhi/)](https://www.linkedin.com/in/inceptionabhi/)
 
-
-
+<div display="flex">
+  <img width="50px" alt="GIF" src="https://media.giphy.com/media/hvE0PhVAnGQAo/giphy.gif"/>
+  <img width="50px" alt="GIF" src="https://media.giphy.com/media/l378ryVoDmMwKoSt2/giphy.gif" />
+  <img width="50px" alt="GIF" src="https://media.giphy.com/media/3ov9jOGBxophqYi0hO/giphy.gif" />
+  <img width="50px" alt="GIF" src="https://media.giphy.com/media/l378jvVVbvhjLojBK/giphy.gif" />
 </div>
+
+
