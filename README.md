@@ -1,41 +1,92 @@
-### Hi there, I'm [Abhishek!](https://www.instagram.com/Wildfireabhi) <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/wave.gif" width="29px">
-![](https://komarev.com/ghpvc/?username=inceptionabhishek&color=blueviolet&label=Profile+Views)
+### Hi there 👋, I'm [Abhishek](https://github.com/inceptionabhishek) 👨‍💻
+
+<br/>
+
+<a href="https://www.linkedin.com/in/inceptionabhi/">
+  <img align="left" alt="Abhishek's Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
+
+<a href="https://codeforces.com/profile/inceptionabhi">
+  <img align="left" alt="Abhishek's Codeforces" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codeforces.svg" />
+</a>
+<a href="https://www.codechef.com/users/inceptionabhi">
+  <img align="left" alt="Abhishek's Codechef" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codechef.svg" />
+</a>
+
+<a href="https://leetcode.com/inceptionabhishek/">
+  <img align="left" alt="Abhishek's Leetcode" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/leetcode.svg" />
+</a>
+
+
 <br />
-<p align ='center'>
- 
- </p>
- 
- 
-```
-💻‍ I'm a Computer Science Student
-👨‍💻 Currently working with MERN Stack tech for web development
-🎇 Learning: DSA and Mobile App development
-🎨 Hobbies: Gamming, coding, and travelling
-```
-<br />
 
+<br/>
 
----
-
-<p align="center">
-  <img width="300px" src="https://github-readme-stats.vercel.app/api?username=inceptionabhishek&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1F222E" />
-  <img width="300px" src="https://github-readme-streak-stats.herokuapp.com?user=inceptionabhishek&theme=gotham&hide_border=true&fire=C77800&ring=DD910B&background=1F222E" />
+<p>
+A beginner MernStack,Frontend  Developer 🚀 from India. Always working on some project or learning something new!
+<br/>
+Stacks I have worked with : MERN , React+Firebase , Dart , ReactNative and Flutter.
+<br/>  
+Things I am currently experimenting with : Mernstack,Android,devops ...
+<br/>
+Want to become a Freelancer in free time 💸 and an Open Source Contributor ❤️.
 </p>
 
----
+
+  <img align="right" alt="GIF" src="https://media.giphy.com/media/MC6eSuC3yypCU/giphy.gif" />
   
-<p align="center">
-  <img width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=inceptionabhishek&hide=TeX&layout=compact&theme=tokyonight&hide_border=true&bg_color=1F222E" />
-</p>
+### ✨ Quick Facts
 
-<p align="center">
-<img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png">
-<img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png">
-<img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png">
-<img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/firebase.svg" alt="Firebase" height="25"/>
-<img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png">
-<img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png">
-<img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png">
-<img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-</p>
+- 👨🏽‍💻 I’m currently a computer science student and looking for internship ..
+- 🌱 I’m currently learning Next.js,React,Mern,and flutter.
+<!--- 🤔 I’m looking for help for my future MERN projects.-->
+- 💬 Ask me about anything related to JS, React, Redux, Firebase.(After googling it 😜😌)
+<!--- ⚡️ Fun-Fact: I sleep at 6am 🙃. -->
+- 🎿 Hobbies other than coding : Reading blogs or about History , Playing Chess , Playing games.
+- 📫 How to reach me: abhishek1122338@gmail.com
 
+### 🛠️ Languages and Tools:
+
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
+![Redux](https://img.shields.io/badge/-Redux-black?style=flat-square&logo=Redux)
+![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
+![Express.js](https://img.shields.io/badge/-Express-black?style=flat-square&logo=expressjs)
+![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
+![Firebase](https://img.shields.io/badge/-Firebase-black?style=flat-square&logo=Firebase)
+![Socket.io](https://img.shields.io/badge/-Socket-black?style=flat-square&logo=socket.io)
+![Meteor](https://img.shields.io/badge/-Meteor-black?style=flat-square&logo=Meteor)
+![Next.js](https://img.shields.io/badge/-Next-black?style=flat-square&logo=Next.js)
+![Material_UI](https://img.shields.io/badge/-Material_UI-black?style=flat-square&logo=material-ui)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-black?style=flat-square&logo=bootstrap)
+![SCSS](https://img.shields.io/badge/-SCSS-black?style=flat-square&logo=SASS)
+![HTML5](https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-black?style=flat-square&logo=css3)
+![C++](https://img.shields.io/badge/-C++-black?style=flat-square&logo=c)
+![Heroku](https://img.shields.io/badge/-Heroku-black?style=flat-square&logo=heroku)
+![Netlify](https://img.shields.io/badge/-Netlify-black?style=flat-square&logo=netlify)
+![Vercel](https://img.shields.io/badge/-Vercel-black?style=flat-square&logo=vercel)
+![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)
+![Gitlab](https://img.shields.io/badge/-Gitlab-black?style=flat-square&logo=gitlab)
+![Ubuntu](https://img.shields.io/badge/-Ubuntu-black?style=flat-square&logo=ubuntu)
+
+
+
+### 👣 Next Steps
+
+_Since you don't want to leave my profile just yet! Here are some things you can do :_
+<img align="right" width="300px" alt="GIF" src="https://media.giphy.com/media/l1J9MU7JDGBu8VQwU/giphy.gif" />
+<div display="flex" >
+
+###### ❤️ Offer work : Send the offer on [![Linkedin Badge](https://img.shields.io/badge/-inceptionabhishek-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/inceptionabhi/)](https://www.linkedin.com/in/inceptionabhi/) or [![Gmail Badge](https://img.shields.io/badge/-abhishek1122338@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:abhishek1122338@gmail.com)](mailto:abhishek1122338@gmail.com)
+
+
+###### ❤️ Follow : You can follow me here on [![GitHub followers](https://img.shields.io/github/followers/inceptionabhishek?label=Follow&style=social)](https://github.com/inceptionabishek/?tab=follow).
+
+
+###### ❤️ Connect with me : [![Linkedin Badge](https://img.shields.io/badge/-inceptionabhishek-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/inceptionabhi/)](https://www.linkedin.com/in/inceptionabhi/)
+
+
+
+</div>
