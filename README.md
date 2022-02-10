@@ -21,7 +21,7 @@
 <br />
 
 <br/>
-
+ <img align="right" width="300px" alt="GIF" src="https://media.giphy.com/media/l1J9MU7JDGBu8VQwU/giphy.gif" />
 <p>
 A beginner MernStack,Frontend  Developer 🚀 from India. Always working on some project or learning something new!
 <br/>
@@ -33,7 +33,7 @@ Want to become a Freelancer in free time 💸 and an Open Source Contributor ❤
 </p>
 
 
- <img align="right" width="300px" alt="GIF" src="https://media.giphy.com/media/l1J9MU7JDGBu8VQwU/giphy.gif" />
+
 
 
   
