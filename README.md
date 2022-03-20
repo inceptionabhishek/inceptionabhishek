@@ -21,7 +21,7 @@
 <br />
 
 <br/>
- <img align="right" width="300px" alt="GIF" src="https://media.giphy.com/media/l1J9MU7JDGBu8VQwU/giphy.gif" />
+ 
 <p>
 A beginner MernStack,Frontend  Developer 🚀 from India. Always working on some project or learning something new!
 <br/>
@@ -70,14 +70,6 @@ Want to become a Freelancer in free time 💸 and an Open Source Contributor ❤
 
 
 
-### 👣 Next Steps
-
-_Since you don't want to leave my profile just yet! Here are some things you can do :_
-
-###### ❤️ Offer work : Send the offer on [![Linkedin Badge](https://img.shields.io/badge/-inceptionabhishek-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/inceptionabhi/)](https://www.linkedin.com/in/inceptionabhi/) or [![Gmail Badge](https://img.shields.io/badge/-abhishek1122338@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:abhishek1122338@gmail.com)](mailto:abhishek1122338@gmail.com)
-
-
-###### ❤️ Follow : You can follow me here on [![GitHub followers](https://img.shields.io/github/followers/inceptionabhishek?label=Follow&style=social)](https://github.com/inceptionabishek/?tab=follow).
 
 
 ###### ❤️ Connect with me : [![Linkedin Badge](https://img.shields.io/badge/-inceptionabhishek-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/inceptionabhi/)](https://www.linkedin.com/in/inceptionabhi/)
