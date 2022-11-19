@@ -108,7 +108,7 @@ Want to become a Freelancer in free time 💸 and an Open Source Contributor ❤
 </p>
 
 
-<img src="https://github.com/Jiganesh/Jiganesh/blob/main/Assets/Mario_Gameplay.gif" alt="Mario Game" width = 100%>
+
 
 
 
