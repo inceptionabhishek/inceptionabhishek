@@ -46,8 +46,6 @@ Want to become a Freelancer in free time 💸 and an Open Source Contributor ❤
 - Always excited and ready to **learn new skills👨‍🎓**.
 
 
-<!-- Contribution Graph-->
-[![inceptionabhishek's github activity graph](https://activity-graph.herokuapp.com/graph?username=inceptionabhishek&theme=xcode&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true)](https://github.com/inceptionabhishek)
 
 
 
@@ -80,7 +78,7 @@ Want to become a Freelancer in free time 💸 and an Open Source Contributor ❤
 ## **Wanna know more about me?** 
 **Send me an email** : abhishek1122338@gmail.com
 
-**Give a call at 📲** : <a href="tel:+918789485063">+91 8789485063</a>
+
 
 ## **GitHub Trophies :**
 <!-- https://github.com/ryo-ma/github-profile-trophy -->
