@@ -24,6 +24,9 @@
 <kbd>
 <img src="https://lexica-serve-encoded-images2.sharif.workers.dev/full_jpg/27a6bcac-8cf7-4bfd-aca9-23094d33d9b1" width="200px" border-Radius="50%" />
 </kbd>
+<kbd>
+<img src="https://lexica-serve-encoded-images2.sharif.workers.dev/full_jpg/0377e264-5226-4f1d-9ca8-867becb4230e" width="200px" border-Radius="50%" />
+</kbd>
   <h1>
 𝓒𝓸𝓷𝓷𝓮𝓬𝓽 𝔀𝓲𝓽𝓱 𝓜𝓮
 </h1>
