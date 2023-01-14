@@ -1,8 +1,6 @@
 
 
-<kbd>
-<img src="https://lexica-serve-encoded-images2.sharif.workers.dev/full_jpg/1fbc36fe-f599-46d1-a6de-706b602a1fbf" width="200px" border-Radius="50%" />
-</kbd>
+
 
   <h1>
 𝓒𝓸𝓷𝓷𝓮𝓬𝓽 𝔀𝓲𝓽𝓱 𝓜𝓮
