@@ -1,24 +1,35 @@
-### Hi there 👋, I'm [Abhishek](https://github.com/inceptionabhishek) 👨‍💻
+<img src="https://user-images.githubusercontent.com/65409282/223959688-41dd7568-a60a-47f6-9210-b30b123d7e68.png" width="100%" borderRadius="21%"/>
 
 <br/>
 
 
 
 
+
+
+
+
 <a href="https://www.linkedin.com/in/inceptionabhi/">
-  <img align="left" alt="Abhishek's Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+  <img align="left" alt="Abhishek's Linkedin" width="22px"  src="https://user-images.githubusercontent.com/65409282/223960488-8a5a9e49-a290-4a7b-8f6d-d080d163c1ac.png" />
 </a>
 
+
+
 <a href="https://codeforces.com/profile/inceptionabhi">
-  <img align="left" alt="Abhishek's Codeforces" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codeforces.svg" />
+  <img align="left" alt="Abhishek's Codeforces" width="30px" src="https://user-images.githubusercontent.com/65409282/223961208-ef567e3d-5c80-4437-959e-fed62d6df765.png" />
 </a>
 <a href="https://www.codechef.com/users/inceptionabhi">
-  <img align="left" alt="Abhishek's Codechef" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codechef.svg" />
+  <img align="left" alt="Abhishek's Codechef" width="30px" src="https://user-images.githubusercontent.com/65409282/223960975-9ad6f052-8032-49b0-a2b5-2354d609f171.png" />
 </a>
 
 <a href="https://leetcode.com/inceptionabhishek/">
-  <img align="left" alt="Abhishek's Leetcode" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/leetcode.svg" />
+  <img align="left" alt="Abhishek's Leetcode" width="22px" src="https://user-images.githubusercontent.com/65409282/223961323-0bc137c9-9dbd-43ed-82cf-0460efaa972e.png" />
 </a>
+
+
+
+
+
 
 
 <br />
