@@ -1,63 +1,40 @@
+# Hi there! 👋
 
 
-
-
-
-
-
-
-
-<a href="https://www.linkedin.com/in/inceptionabhi/">
-  <img align="left" alt="Abhishek's Linkedin" width="22px"  src="https://user-images.githubusercontent.com/65409282/223960488-8a5a9e49-a290-4a7b-8f6d-d080d163c1ac.png" />
-</a>
-
-
-
-<a href="https://codeforces.com/profile/inceptionabhi">
-  <img align="left" alt="Abhishek's Codeforces" width="30px" src="https://user-images.githubusercontent.com/65409282/223961208-ef567e3d-5c80-4437-959e-fed62d6df765.png" />
-</a>
-<a href="https://www.codechef.com/users/inceptionabhi">
-  <img align="left" alt="Abhishek's Codechef" width="30px" src="https://user-images.githubusercontent.com/65409282/223960975-9ad6f052-8032-49b0-a2b5-2354d609f171.png" />
-</a>
-
-<a href="https://leetcode.com/inceptionabhishek/">
-  <img align="left" alt="Abhishek's Leetcode" width="22px" src="https://user-images.githubusercontent.com/65409282/223961323-0bc137c9-9dbd-43ed-82cf-0460efaa972e.png" />
-</a>
-
-
-
-
-
-
-
-<br />
-
-<br/>
-
-
- 
-<p>
-A beginner MernStack,Frontend  Developer 🚀 from India. Always working on some project or learning something new!
-<br/>
-Stacks I have worked with : MERN , React+Firebase , Dart , ReactNative and Flutter.
-<br/>  
-Things I am currently experimenting with : Mernstack,Android,devops ...
-<br/>
-Want to become a Freelancer in free time 💸 and an Open Source Contributor ❤️.
-</p>
-
-
-
-
- <img src="https://user-images.githubusercontent.com/65409282/223956958-24146d53-e9b1-4ba2-b55e-812e3c96aa61.gif" />
+<table>
+    <tr>
+    <td valign="top">
+      I'm Abhishek, a passionate and dedicated software developer with a love for creating innovative solutions. Welcome to my GitHub profile! Here you'll find a collection of my projects, contributions, and collaborations that showcase my skills and expertise in the world of coding.
+    </td>
+    <td valign="top">
+      <img src="https://github.com/inceptionabhishek/inceptionabhishek/assets/65409282/2b3e598a-791d-4930-a1b5-75c8d8f1ff57" height="200px" width="1000px" />
+    </td>
+  </tr>
+ </table>
   
-### ✨ Quick Facts
- - 👨🏽‍💻 I’m currently a computer science student and looking for internship ..
-- 🌱 I’m currently learning Next.js,React,Mern,and flutter.
-- 💬 Ask me about anything related to JS, React, Redux, Firebase.(After googling it 😜😌)
-- 🎿 Hobbies other than coding : Reading blogs or about History , Playing Chess , Playing games.
-- 📫 How to reach me: abhishek1122338@gmail.com
-### 🛠️ Languages and Tools:
+
+## About Me
+
+I thrive on challenges and enjoy pushing the boundaries of what's possible in the realm of software development. With a background in Computer Science, I have honed my skills in various programming languages, frameworks, and tools to deliver robust and scalable applications.
+
+In addition to my technical abilities, I am a strong advocate for clean code, software best practices, and continuous learning. I believe in the power of collaboration and enjoy working with like-minded individuals and teams to build remarkable software solutions.
+<table>
+  <tr>
+    <td valign="top"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=inceptionabhishek&layout=compact&show_icons=true&title_color=ffffff&icon_color=34abeb&text_color=daf7dc&bg_color=151515"/></td>
+    <td valign="top"><img src="https://github-readme-stats.vercel.app/api?username=inceptionabhishek&show_icons=true&title_color=ffffff&icon_color=34abeb&text_color=daf7dc&bg_color=151515"/></td>
+  </tr>
+</table>
+## 🔧 Technologies & Tools
+
+Here are some of the technologies and tools I'm proficient in:
+
+- Programming Languages: C, C++, JAVA, PYTHON, JAVASCRIPT 
+- Frameworks and Libraries: NODEJS, REACTJS, EXPRESSJS, MATERIALUL, BOOTSTRAP, DJANGO
+- Databases: MONGODB, MYSQL
+- Version Control Systems: GIT
+- Tools and Software: Visual Studio Code, Android Studio, CodeBlocks, Sublime Text
+- Soft Skills: Leadership, Teamwork, Problem Solving, Time Management
+
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
@@ -83,12 +60,27 @@ Want to become a Freelancer in free time 💸 and an Open Source Contributor ❤
 ![Gitlab](https://img.shields.io/badge/-Gitlab-black?style=flat-square&logo=gitlab)
 ![Ubuntu](https://img.shields.io/badge/-Ubuntu-black?style=flat-square&logo=ubuntu)
 
+I'm always excited to explore and learn new technologies, so this list is constantly expanding!
 
+## 🌱 Currently Learning
 
-<div display="flex">
-  <img width="50px" alt="GIF" src="https://media.giphy.com/media/hvE0PhVAnGQAo/giphy.gif"/>
-  <img width="50px" alt="GIF" src="https://media.giphy.com/media/l378ryVoDmMwKoSt2/giphy.gif" />
-  <img width="50px" alt="GIF" src="https://media.giphy.com/media/3ov9jOGBxophqYi0hO/giphy.gif" />
-  <img width="50px" alt="GIF" src="https://media.giphy.com/media/l378jvVVbvhjLojBK/giphy.gif" />
-</div>
+Learning is a never-ending journey in the world of technology. Currently, I'm focusing on enhancing my skills in:
 
+- Machine Learning, Springboot, Django, Data Analysis
+
+I believe that staying up-to-date with the latest trends and advancements is crucial for staying ahead in this rapidly evolving industry.
+
+Feel free to browse through my repositories to gain insights into my coding style, problem-solving approach, and the range of projects I've worked on.
+
+## 📫 Let's Connect
+
+I'm always excited to connect with fellow developers, tech enthusiasts, and potential collaborators. Feel free to reach out to me through the following channels:
+
+- Email: abhishekkumarcse24@gmail.com
+- LinkedIn: https://www.linkedin.com/in/inceptionabhi/
+- Twitter: https://twitter.com/inceptionabhi
+- Website : http://abhishekdev.me/MyPortfolio/
+
+Let's connect and explore opportunities to create amazing things together!
+
+Looking forward to exchanging ideas, contributing to open-source projects, and making a positive impact in the world of software development. Happy coding! 🚀
