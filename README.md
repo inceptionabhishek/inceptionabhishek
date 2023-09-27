@@ -7,7 +7,7 @@
       I'm Abhishek, a passionate and dedicated software developer with a love for creating innovative solutions. Welcome to my GitHub profile! Here you'll find a collection of my projects, contributions, and collaborations that showcase my skills and expertise in the world of coding.
     </td>
     <td valign="top">
-      <img src="https://github.com/inceptionabhishek/inceptionabhishek/assets/65409282/2b3e598a-791d-4930-a1b5-75c8d8f1ff57" height="200px" width="1000px" />
+      <img src="https://github.com/inceptionabhishek/inceptionabhishek/assets/65409282/2b3e598a-791d-4930-a1b5-75c8d8f1ff57" height="200px" width="200px" />
     </td>
   </tr>
  </table>
